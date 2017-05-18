@@ -2,7 +2,7 @@
 
 * [トップ](README.md)
 * [大塚のテストページ](Test_Otsuka.md)
-* [大塚テスト\_2](da-zhong-30c6-30b9-30c8-2.md)
+* [大塚テスト\_2](Test_Otsuka_2.md)
 
 ---
 
