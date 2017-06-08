@@ -5,6 +5,7 @@
 * [大塚テスト\_2](Test_Otsuka_2.md)
 * [ステイサム2](2.md)
 * [線路](xian-lu.md)
+* [座席](zuo-xi.md)
 
 ---
 
