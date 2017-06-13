@@ -1,2 +1,2 @@
-# Oculus_Rift_DK2のインストール
+# OculusRiftDK2のインストール
 
