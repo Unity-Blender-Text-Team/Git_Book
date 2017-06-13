@@ -1,14 +1,15 @@
 # OculusRiftDK2のダウンロード
 <br>
-この章では、VR用のヘッドマウントディスプレイ「OculusRiftDK2」をセットアップしましょう。  
+この章では、VR用のヘッドマウントディスプレイ「OculusRiftDK2」をセットアップしましょう。 
 この章を行うと、アプリへの没入感が上がります。
+OculusRiftDK2は、まだパソコンに接続しないで下さい。
 <br>
 <br>
 <br>
 
 
 
-####　最初に、ドライバをインストールします。  
+####　最初に、ドライバをダウンロードします。  
 ブラウザを立ち上げ、下記リンクにアクセスして下さい。  
 [https://www3.oculus.com/en-us/setup/](https://www3.oculus.com/en-us/setup/)
 <br>
@@ -41,7 +42,7 @@
 
 
 
-####　次に、Unityで使用するアセットパッケージをインストールします。  
+####　次に、Unityで使用するアセットパッケージをダウンロードします。  
 ブラウザを立ち上げ、下記リンクにアクセスして下さい。  
 [https://developer.oculus.com/downloads/package/oculus-utilities-for-unity-5/1.15.0/](https://developer.oculus.com/downloads/package/oculus-utilities-for-unity-5/1.15.0/)
 <br>
