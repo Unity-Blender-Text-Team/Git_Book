@@ -18,6 +18,8 @@
 * [9.線路作成](xian-lu.md)
 * [10.テクスチャー・マテリアル](10.md)
 * [11.Unityへの移動方法](11unity3078-306e-yi-dong-fang-fa.md)
+* [12.電柱，電線の作成](12dian-zhu-ff0c-dian-xian-306e-zuo-cheng.md)
+* [13.ポリゴン数の削減\(モディファイア\)](1330dd-30ea-30b4-30f3-shu-306e-xue-6e1b28-30e2-30c7-30a3-30d5-30a1-30a4-30a229.md)
 * [座席](zuo-xi.md)
 * [OculusRiftDK2のダウンロード](Oculus_Rift_DK2_Download.md)
 * [OculusRiftDK2のインストール](Oculus_Rift_DK2_Install.md)
