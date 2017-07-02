@@ -19,5 +19,23 @@ markdown文法での、記述方法が分からない。
 
 参考URL : http://voidptr.seesaa.net/article/393414879.html
 ↑これ、Gitbookだと、使えないよね？
+<br>
+<br>
+
+
+
+#### Q.ソースコードが、ハイライトされない
+markdown記法では、ソースコード枠は表示されるが、
+ハイライトとタイトルが出ない。
+
+```c#:Test.cs
+public class Test : MonoBehaviour {
+}
+```
+
+参考URL : http://qiita.com/Qiita/items/c686397e4a0f4f11683d
+↑これ、Gitbookだと、使えないよね？
+<br>
+<br>
 
 
