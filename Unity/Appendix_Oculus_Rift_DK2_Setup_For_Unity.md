@@ -1,4 +1,4 @@
-# OculusRiftDK2をUnityでセットアップ
+# 付録.OculusRiftDK2をUnityでセットアップ
 <br>
 「OculusRiftDK2」のセットアップの続きです。 
 ここまでで、OculusRiftDK2は、パソコンに接続している状態です。

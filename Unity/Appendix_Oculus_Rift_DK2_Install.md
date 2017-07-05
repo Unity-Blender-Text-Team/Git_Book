@@ -1,4 +1,4 @@
-# OculusRiftDK2のインストール
+# 付録.OculusRiftDK2のインストール
 <br>
 「OculusRiftDK2」のセットアップの続きです。
 OculusRiftDK2は、まだパソコンに接続しないで下さい。
