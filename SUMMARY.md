@@ -21,7 +21,6 @@ Blenderの解説
 * [6.モード説明](630e2-30fc-30c9-shuo-ming.md)
 * [7.Blender基本操作説明](7blenderji-ben-cao-zuo-shuo-ming.md)
 * [8.カットツール説明](830ab-30c3-30c8-30c4-30fc-30eb-shuo-ming.md)
-* [8.編集ツールの使い方\(簡単なモデル作成\)](8bian-ji-30c4-30fc-30eb-306e-shi-3044-65b928-jian-dan-306a-30e2-30c7-30eb-zuo-621029.md)
 * [8.押し出し・コピー＆ペースト](8bian-ji-30c4-30fc-30eb-306e-shi-3044-65b928-jian-dan-306a-30e2-30c7-30eb-zuo-621029.md)
 * [9.線路作成](xian-lu.md)
 * [10.テクスチャー・マテリアル](10.md)
