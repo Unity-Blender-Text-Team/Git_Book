@@ -1,10 +1,10 @@
 # 2.Blenderウィンドウ説明
 
-![](/Graphics/window1.png)**図．ウィンドウ**
+![](/Graphics/Blender/window1.png)**図．ウィンドウ**
 
 #### ➀3D Viewウィンドウ
 
-#### ![](/Graphics/window2.png)**図．3D Viewウィンドウ**
+#### ![](/Graphics/Blender/window2.png)**図．3D Viewウィンドウ**
 
 3D Viewウィンドウには、その仮想世界の内容が表示されています。メッシュを形作るモデリング作業などもこのウィンドウで行っていきます。
 
