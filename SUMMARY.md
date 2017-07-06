@@ -15,7 +15,7 @@ Blenderの解説
 
 * [1.Blenderインストール説明](1blender30a4-30f3-30b9-30c8-30fc-30eb-shuo-ming.md)
 * [2.Blenderウィンドウ説明](2blender30a6-30a3-30f3-30c9-30a6-shuo-ming.md)
-* [3.Blenderカメラ操作説明](3blender30ab-30e1-30e9-cao-zuo-shuo-ming.md)
+* [3.Blenderカメラ操作説明](3-camera.md)
 * [4.プリミティブの作成](430d7-30ea-30df-30c6-30a3-30d6-306e-zuo-cheng.md)
 * [5.保存形式](5bao-cun-xing-shi.md)
 * [6.モード説明](630e2-30fc-30c9-shuo-ming.md)
