@@ -14,13 +14,13 @@
 Blenderの解説
 
 * [1.Blenderインストール説明](Blender/1download.md)
-* [2.Blenderウィンドウ説明](Blender/2blender30a6-30a3-30f3-30c9-30a6-shuo-ming.md)
+* [2.Blenderウィンドウ説明](Blender/2window.md)
 * [3.Blenderカメラ操作説明](Blender/3-camera.md)
 * [4.プリミティブの作成](Blender/4-primitives.md)
 * [5.保存形式](Blender/5-save.md)
-* [6.モード説明](Blender/630e2-30fc-30c9-shuo-ming.md)
-* [7.Blender基本操作説明](Blender/7blenderji-ben-cao-zuo-shuo-ming.md)
-* [8.カットツール説明](Blender/830ab-30c3-30c8-30c4-30fc-30eb-shuo-ming.md)
+* [6.モード説明](Blender/6mode.md)
+* [7.Blender基本操作説明](Blender/7kihon.md)
+* [8.カットツール説明](Blender/8-1cut.md)
 * [8.押し出し・コピー＆ペースト](Blender/8-2.md)
 * [9.線路作成](Blender/9line.md)
 * [10.テクスチャー・マテリアル](Blender/10.md)
