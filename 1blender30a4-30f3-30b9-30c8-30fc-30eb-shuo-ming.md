@@ -4,7 +4,7 @@
 
 [https://www.blender.org/](https://www.blender.org/)
 
-![](/assets/インストール_1.png)
+![](/assets/in_1.png)
 
 「Download」から64bit版と32bit版が選べるので自分のPCに合った方を選びましょう。
 
