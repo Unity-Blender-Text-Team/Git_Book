@@ -14,13 +14,13 @@
 Blenderの解説
 
 * [1.Blenderインストール説明](Blender/1download.md)
-* [2.Blenderウィンドウ説明](Blender/2blender30a6-30a3-30f3-30c9-30a6-shuo-ming.md)
+* [2.Blenderウィンドウ説明](Blender/2window.md)
 * [3.Blenderカメラ操作説明](Blender/3-camera.md)
 * [4.プリミティブの作成](Blender/4-primitives.md)
 * [5.保存形式](Blender/5-save.md)
-* [6.モード説明](Blender/630e2-30fc-30c9-shuo-ming.md)
-* [7.Blender基本操作説明](Blender/7blenderji-ben-cao-zuo-shuo-ming.md)
-* [8.カットツール説明](Blender/830ab-30c3-30c8-30c4-30fc-30eb-shuo-ming.md)
+* [6.モード説明](Blender/6mode.md)
+* [7.Blender基本操作説明](Blender/7kihon.md)
+* [8.カットツール説明](Blender/8-1cut.md)
 * [8.押し出し・コピー＆ペースト](Blender/8-2.md)
 * [9.線路作成](Blender/9line.md)
 * [10.テクスチャー・マテリアル](Blender/10.md)
@@ -35,19 +35,16 @@ Blenderの解説
 
 Unityの解説
 
-* [第2章.フィールド場面の解説](Unity/Chapter_2_Field_Scene.md)
+* [2.フィールド場面の解説](Unity/Chapter_2_Field_Scene.md)
 
-* [（無画像）第4章.UIの基本](Unity/Chapter_4_UI_Standard_NG.md)
-* [（無画像）第4章.操作説明UIの実装](Unity/Chapter_4_UI_Operation_Explanation_NG.md)
-* [（枠のみ）第4章.スコアUIの実装](Unity/Chapter_4_UI_Score_FO.md)
-* [（枠のみ）第4章.写真撮影UIの実装](Unity/Chapter_4_UI_Photo_Shoot_FO.md)
+* [（無画像）4-1.UIの基本](Unity/Chapter_4-1_UI_Standard_NG.md)
+* [（無画像）4-2.操作説明UIの実装](Unity/Chapter_4-2_UI_Operation_Explanation_NG.md)
 
-* [（枠のみ）第5章.アプリ遷移の基本](Unity/Chapter_5_Application_Transition_FO.md)
-* [（枠のみ）第5章.スコア場面の実装](Unity/Chapter_5_Score_Scene_FO.md)
-* [（枠のみ）第5章.タイトル場面の実装](Unity/Chapter_5_Title_Scene_FO.md)
+* [（枠のみ）5-1.アプリ遷移の基本](Unity/Chapter_5-1_Application_Transition_FO.md)
+* [（枠のみ）5-2.タイトル場面の実装](Unity/Chapter_5-2_Title_Scene_FO.md)
 
-* [（枠のみ）第X章.キー入力の設定](Unity/Chapter_X_Input_FO.md)
-* [（枠のみ）第X章.スクリプト実行順序の設定](Unity/Chapter_X_Script_Execution_Order_FO.md)
+* [（枠のみ）X.キー入力の設定](Unity/Chapter_X_Input_FO.md)
+* [（枠のみ）X.スクリプト実行順序の設定](Unity/Chapter_X_Script_Execution_Order_FO.md)
 
 * [付録.OculusRiftDK2のダウンロード](Unity/Appendix_Oculus_Rift_DK2_Download.md)
 * [付録.OculusRiftDK2のインストール](Unity/Appendix_Oculus_Rift_DK2_Install.md)
