@@ -4,11 +4,11 @@
 
 ・Nキーを押し、拡大縮小で\(x, y, z\)を\(5, 0.2, 0.05\)、位置\(x, y, z\)を\(0, 1, 0\)に変更します。
 
-![](/assets/sennro2.png)
+![](/Graphics/Blender/sennro2.png)
 
 新しく立方体を作成し、拡大縮小で\(5, 0.1, 0.1\)、位置を\(0, 1, 0.1\)に変更
 
-![](/assets/sennro4.png)
+![](/Graphics/Blender/sennro4.png)
 
 ・もう一本レールを作るので上記と同じ作業を行います。
 
@@ -16,13 +16,13 @@
 
 新しく立方体を作成し、拡大縮小で\(5, 0.1, 0.1\)、位置を\(0, -1, 0.1\)に変更します。
 
-![](/assets/sennro5.png)
+![](/Graphics/Blender/sennro5.png)
 
 ・立方体を作成
 
 拡大縮小で\(0.25, 1.5, 0.05\)、位置を\(4.5, 0, 0\)に変更します。
 
-![](/assets/sennro6.png)
+![](/Graphics/Blender/sennro6.png)
 
 ・選択したまま左側にある複製で線路を10本増やします。
 
@@ -30,7 +30,7 @@
 
 Aで全選択し、Ctrl+Jで結合したら線路の完成です。
 
-![](/assets/sennro8.png)
+![](/Graphics/Blender/sennro8.png)
 
 ・色を変えるため右側のマテリアルから新規設定を押す
 
