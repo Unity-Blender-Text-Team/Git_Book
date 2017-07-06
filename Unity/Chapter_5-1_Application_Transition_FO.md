@@ -10,19 +10,35 @@
 
 ゲーム等のアプリケーションには、タイトル、探索するステージ、リザルド等の複数の場面が必要となります。
 Unityでは、このような場面を「Scene」と呼び、「Scene」ごとに分けて開発します。
+<br>
+
 
 「Scene」は、幾らでも作成出来ます。
 試しに、「Project」ビューの「Scenes」フォルダの中に、
 右クリックから、「Create」→「Scene」を選択し、新規場面を作成して「Test」と名付けて下さい。
+![](/Graphics/Test/Test.jpg)  
+**図. テスト画像**
+<br>
+
 
 「Test」をクリックして、Test場面を開いて下さい。
 その際、元の場面を保存するかを聞かれた場合は、保存して下さい。
+![](/Graphics/Test/Test.jpg)  
+**図. テスト画像**
+<br>
+
 
 「Test」場面には、「Main Camera」と「Directional Light」オブジェクトが最初から入ってます。
 これは、カメラと光です。
+<br>
 
 ここで、空のゲームオブジェクトを作成し、「Test」と名付けて下さい。
 更に、「C#スクリプト」を作成し、「Test.cs」と名付け、「Test」ゲームオブジェクトにコンポーネントとして割り当てて下さい。
+![](/Graphics/Test/Test.jpg)  
+**図. テスト画像**
+<br>
+
+
 「Test.cs」には、以下をコピー&ペーストして下さい。
 
 ```c#:Test.cs
@@ -61,23 +77,31 @@ public class Test : MonoBehaviour {
 
 上記プログラムのコメントにあるように、「SceneManager.LoadScene("Field");」を呼ぶと、
 「Field」と名付けられた「Scene」に切り替わります。
-
+<br>
 
 しかし、現在「Field」シーンが登録されていないので、このまま実行するとエラーになります。
+<br>
 
 
 Unityエディタの上方にある「File」→「Build Setting」を選択し、
 「Scenes In Build」の枠内に、「Project」ビュー内の「Scenes」フォルダ内の「Scene」を
 図のようにドラッグ&ドロップして、登録します。
+![](/Graphics/Test/Test.jpg)  
+**図. テスト画像**
+<br>
 
 
 登録出来たら、「Build Setting」ウィンドウを閉じて下さい。
 このウィンドウは、「Build」と言う、アプリをどのパソコンからでも起動出来る状態に纏める作業に使いますが、
 後の章で詳しく解説しますので、この場では割愛します。
+<br>
 
 
 アプリを実行してみましょう。
 「Enter」キーを押して、先程まで実装していた、電車の場面に切り替われば成功です。
+![](/Graphics/Test/Test.jpg)  
+**図. テスト画像**
+<br>
 
 
 上手く実装出来たら、「Test」場面も「Test.cs」スクリプトも不要なので、削除して下さい。
