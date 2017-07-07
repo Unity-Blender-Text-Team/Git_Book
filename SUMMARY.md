@@ -15,7 +15,7 @@
 * [7.Blender基本操作説明](Blender/7kihon.md)
 * [8.カットツール説明](Blender/8-1cut.md)
 * [8.押し出し・コピー＆ペースト](Blender/8-2.md)
-* [8-3.オブジェクトの結合](Blender/8-330aa-30d6-30b8-30a7-30af-30c8-306e-jie-he.md)
+* [8-3.オブジェクトの結合](Blender/8-3.md)
 * [9.線路作成](Blender/9line.md)
 * [10.マテリアル](Blender/10.md)
 * [11.Unityへの移動方法](Blender/11move.md)
