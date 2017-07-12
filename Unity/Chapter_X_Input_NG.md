@@ -11,15 +11,15 @@ UIのボタン入力や、キャラクターの移動や回転等に、キー入
 
 Unityエディタの左上から「Edit」→「Project Settings」→「Input」を選択すると、
 「Inspector」ウィンドウに「InputManager」が表示されます。
-![](/Graphics/Test/Test.jpg)  
-**図. テスト画像**
+![](/Graphics/Unity/Chapter_X/Input/1.jpg)
+**図. InputManagerの開き方**
 <br>
 
 
 「Axes」横の矢印をクリックすると、展開します。
 複数の名前がありますが、これらはスクリプトから呼び出す事で、入力に使用出来ます。
-![](/Graphics/Test/Test.jpg)  
-**図. テスト画像**
+![](/Graphics/Unity/Chapter_X/Input/2.jpg)
+**図. InputManagerの詳細**
 <br>
 
 
@@ -35,8 +35,8 @@ Unityエディタの左上から「Edit」→「Project Settings」→「Input�
 しかし、ここでは詳細の説明を割愛します。
 「Unityエディタ」ではなく、エクスプローラー（フォルダの事）を開いて下さい。
 「/VR_Romance_Car/ProjectSettings/InputManager.asset」をテキストエディタで無理やり開きます。
-![](/Graphics/Test/Test.jpg)  
-**図. テスト画像**
+![](/Graphics/Unity/Chapter_X/Input/3.jpg)
+**図. InputManagerの設定ファイル**
 <br>
 
 
