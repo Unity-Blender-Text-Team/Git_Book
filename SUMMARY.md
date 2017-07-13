@@ -21,7 +21,6 @@
 * [11.Unityへの移動方法](Blender/11move.md)
 * [12.電柱，電線の作成](Blender/12-dentyu-densen.md)
 * [13.ポリゴン数の削減](Blender/13-modi.md)
-* [座席](Blender/zuo-xi.md)
 * [付録.ショートカットキー](Blender/Shortcutkey.md)
 
 ---
