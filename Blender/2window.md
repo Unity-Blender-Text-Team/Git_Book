@@ -2,6 +2,8 @@
 
 ![](/Graphics/Blender/window1.png)**図．ウィンドウ**
 
+色分けした図の番号に沿って説明します。
+
 #### ➀3D Viewウィンドウ
 
 #### ![](/Graphics/Blender/window2.png)**図．3D Viewウィンドウ**
