@@ -26,7 +26,13 @@
 
 ---
 
-* [1-3.ウィンドウの解説](Unity/ono/window no kaisetu.md)
+* [1-1.unityのセットアップとインストール](Unity/ono/1-1set up.md)
+* [1-2.シーンの作り方](Unity/ono/1-2si-nno tukuri.md)
+* [1-3.ウィンドウの解説](Unity/ono/1-3window no kaisetu)
+* [1-4.オブジェクトの配置](1-4obujekutono  haiti .md)
+* [1-5.オブジェクトの操作](Unity/ono/1-5obujekutonosousa.md)
+* [1-6.カメラの操作](Unity/ono/1-6 kamerasousanoyarikata.md)
+* [1-7.プログラミング](Unity/ono/1-7 vis.md)
 * [2.フィールド場面の解説](Unity/Chapter_2_Field_Scene.md)
 * [（無画像）4-1.UIの基本](Unity/Chapter_4-1_UI_Standard_NG.md)
 * [（無画像）4-2.操作説明UIの実装](Unity/Chapter_4-2_UI_Operation_Explanation_NG.md)
