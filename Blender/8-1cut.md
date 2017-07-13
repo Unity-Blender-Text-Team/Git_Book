@@ -8,7 +8,7 @@
 
 自分が切りたい部分をクリックで選択していきます。
 
-![](/Graphics/assets/cut1.png)**図．カットツール**
+![](/Graphics/Blender/cut1.png)**図．カットツール**
 
 
 
@@ -16,7 +16,7 @@
 
 図のように表示されれば完了です。面が増えましたね！
 
-![](/Graphics/assets/cut2.png)**図．カットツール**
+![](/Graphics/Blender/cut2.png)**図．カットツール**
 
 
 
@@ -26,11 +26,11 @@
 
 ループカットを選択するとオレンジ色の線が表示されるので、マウスを動かして移動し、自分が切りたい部分でクリックで決定します。
 
-![](/Graphics/assets/Loopcut1.png)**図．ループカットツール**
+![](/Graphics/Blender/Loopcut1.png)**図．ループカットツール**
 
 
 
 面が増えました。
 
-![](/Graphics/assets/Loopcut2.png)**図．ループカットツール**
+![](/Graphics/Blender/Loopcut2.png)**図．ループカットツール**
 
