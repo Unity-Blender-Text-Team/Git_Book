@@ -14,7 +14,7 @@
 * [6.モード説明](Blender/6mode.md)
 * [7.Blender基本操作説明](Blender/7kihon.md)
 * [8-1.カットツール説明](Blender/8-1cut.md)
-* [8.押し出し・コピー＆ペースト](Blender/8-2.md)
+* [8-2.押し出し・コピー＆ペースト](Blender/8-2.md)
 * [8-3.オブジェクトの結合](Blender/8-3.md)
 * [9.線路作成](Blender/9line.md)
 * [10.マテリアル](Blender/10.md)
