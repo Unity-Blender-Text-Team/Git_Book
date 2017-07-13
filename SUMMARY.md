@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-﻿# Summary
+# Summary
 
 * [トップ](README.md)
 * [書式](Other/Format.md)
@@ -14,7 +13,7 @@
 * [5.保存形式](Blender/5-save.md)
 * [6.モード説明](Blender/6mode.md)
 * [7.Blender基本操作説明](Blender/7kihon.md)
-* [8.カットツール説明](Blender/8-1cut.md)
+* [8-1.カットツール説明](Blender/8-1cut.md)
 * [8.押し出し・コピー＆ペースト](Blender/8-2.md)
 * [8-3.オブジェクトの結合](Blender/8-3.md)
 * [9.線路作成](Blender/9line.md)
@@ -39,11 +38,7 @@
 * [付録.OculusRiftDK2のセットアップ](Unity/Appendix_Oculus_Rift_DK2_Setup.md)
 * [付録.OculusRiftDK2をUnityでセットアップ](Unity/Appendix_Oculus_Rift_DK2_Setup_For_Unity.md)
 
-
-
-
-=======
-# Summary
+---
 
 * [トップ](README.md)
 * [書式](Other/Format.md)
@@ -82,4 +77,3 @@
 * [付録.OculusRiftDK2のセットアップ](Unity/Appendix_Oculus_Rift_DK2_Setup.md)
 * [付録.OculusRiftDK2をUnityでセットアップ](Unity/Appendix_Oculus_Rift_DK2_Setup_For_Unity.md)
 
->>>>>>> c6ab6bd992c70fab8c2d29df2fabc73fbe55422f
