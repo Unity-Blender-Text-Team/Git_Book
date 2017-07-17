@@ -1,5 +1,7 @@
 # 1.Blenderインストール説明
 
+まず始めにBlenderをインストールして始めましょう。
+
 以下のBlender公式サイトからダウンロードすることができます。
 
 [https://www.blender.org/](https://www.blender.org/)
