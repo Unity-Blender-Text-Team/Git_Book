@@ -28,7 +28,7 @@
 * [1-1.unityのセットアップとインストール](Unity/ono/1-1set up.md)
 * [1-2.シーンの作り方](Unity/ono/1-2si-nno tukuri.md)
 * [1-3.ウィンドウの解説](Unity/ono/1-3window no kaisetu.md)
-* [1-4.オブジェクトの配置](Unity/ono/1-4obujekutono  haiti .md)
+* [1-4.オブジェクトの配置](Unity/ono/1-4objectnohaiti.md)
 * [1-5.オブジェクトの操作](Unity/ono/1-5obujekutonosousa.md)
 * [1-6.カメラの操作](Unity/ono/1-6 kamerasousanoyarikata.md)
 * [1-7.プログラミング](Unity/ono/1-7 vis.md)
