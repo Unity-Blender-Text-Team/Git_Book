@@ -38,8 +38,6 @@
 * [1-6.プログラミング](Unity/ono/1-7 vis.md)
 * [2-1.フィールド場面の解説](Unity/Chapter_2-1_Field_Scene.md)
 * [2-2.スクリプト実行順序の設定](Unity/Chapter_2-2_Script_Execution_Order.md)
-* [2-3.blenderファイルをUnityへ差し替える](Unity/ono/2-1sasikae.md)
-* [2-4モデルの配置](Unity/ono/2-2modelnohaiti.md)
 * [4-1.キー入力の設定](Unity/Chapter_4-1_Input.md)
 * [4-2.UIの基本](Unity/Chapter_4-2_UI_Standard.md)
 * [4-3.操作説明UIの実装](Unity/Chapter_4-3_UI_Operation_Explanation.md)
