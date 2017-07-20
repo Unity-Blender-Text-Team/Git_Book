@@ -12,6 +12,13 @@
 <br>
 Sceneビュー上のオブジェクトの位置は、「X：横軸」「Y：縦軸」「Z：奥行」で示されます。
 各オブジェクトの位置は、inspectorビューのTransFormの「Position」から、それぞれ「X,Y,X」の値を設定することでも指定できます。
+![](/Graphics/Unity/Ono/1-5d.png)
+**図. X、Y、Z軸**
+
+
+
+
+
 
 
 
