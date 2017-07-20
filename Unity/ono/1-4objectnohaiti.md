@@ -6,7 +6,7 @@ Unityでは、シーン上に図形などのオブジェクトを配置して、
 **図. Createをクリック**
 <br>
 
-次に[3D Object]にカーソルを合わせる
+次に[3D Object]にカーソルを合わせます。
 
 ![](/Graphics/Unity/Ono/1-4aba.png)
 **図. 3D Objectをクリック**
