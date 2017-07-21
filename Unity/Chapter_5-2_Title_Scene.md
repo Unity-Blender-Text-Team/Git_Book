@@ -14,20 +14,20 @@
 
 最初に「Project」ビューの「Scenes」フォルダ内に「Scene」を作成し「Title」と名付け、開いて下さい。
 ![](/Graphics/Unity/Chapter_5/Title_Scene/1.jpg)
-**図. Title場面の作成**
+**図125. Title場面の作成**
 <br>
 
 
 「Hierarchy」から空の「GameObject」を作成し「Scene_Manager」と名付けて下さい。
 ![](/Graphics/Unity/Chapter_5/Title_Scene/2.jpg)
-**図. Scene_Managerの作成**
+**図126. Scene_Managerの作成**
 <br>
 
 
 「C#スクリプト」を作成し「Title_Manager.cs」と名付け、「Scene_Manager」オブジェクトに張り付けて下さい。
 同様に前章で作成した「Debug_EX.cs」を張り付けて下さい。
 ![](/Graphics/Unity/Chapter_5/Title_Scene/3.jpg)
-**図. Scene_Managerの設定**
+**図127. Scene_Managerの設定**
 <br>
 
 
@@ -71,13 +71,13 @@ public class Title_Manager : Scene_Manager {
 「Project」ビューから「Prefabs」フォルダ内の「EventSystem」プレハブを「Hierarchy」に
 ドラッグ&ドロップして下さい。
 ![](/Graphics/Unity/Chapter_5/Title_Scene/4.jpg)
-**図. EventSystemプレハブの移植**
+**図128. EventSystemプレハブの移植**
 <br>
 
 
 同様に「Canvas」プレハブを配置します。
 ![](/Graphics/Unity/Chapter_5/Title_Scene/5.jpg)
-**図. Canvasプレハブの移植**
+**図129. Canvasプレハブの移植**
 <br>
 
 
@@ -86,7 +86,7 @@ public class Title_Manager : Scene_Manager {
 「Image」を「Background」と名付け、
 「Button」を「Button_Start」「Button_End」と名付けます。
 ![](/Graphics/Unity/Chapter_5/Title_Scene/6.jpg)
-**図. UI_Title全体の作成**
+**図130. UI_Title全体の作成**
 <br>
 
 
@@ -95,13 +95,13 @@ public class Title_Manager : Scene_Manager {
 「Button」2つは、少し離して配置し、子の「Text」から「開始」や「終了」等の文章を設定します。
 大よそ、図のように配置します。
 ![](/Graphics/Unity/Chapter_5/Title_Scene/7.jpg)
-**図. UI_Title全体の設定**
+**図131. UI_Title全体の設定**
 <br>
 
 
 「UI_Title」に「C#スクリプト」を追加し「UI_Title.cs」と名付けます。
 ![](/Graphics/Unity/Chapter_5/Title_Scene/8.jpg)
-**図. UI_Titleの設定**
+**図132. UI_Titleの設定**
 <br>
 
 
@@ -162,7 +162,7 @@ public class UI_Title : MonoBehaviour {
 「No Function」を「UI_Title」→「on_click (Button)」に設定し、
 「None (Button)」に自身のオブジェクトをドラッグします。
 ![](/Graphics/Unity/Chapter_5/Title_Scene/9.jpg)
-**図. Button押下イベントの設定**
+**図133. Button押下イベントの設定**
 <br>
 
 

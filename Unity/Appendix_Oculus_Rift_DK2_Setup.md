@@ -14,7 +14,7 @@ OculusRiftDK2は、まだパソコンに接続しないで下さい。
 <br>
 「Agree」ボタンを押します。
 ![](/Graphics/Oculus_Rift_DK2/Setup/1.jpg)  
-**図. 規約了承画面**
+**図152. 規約了承画面**
 <br>
 
 
@@ -22,7 +22,7 @@ OculusRiftDK2は、まだパソコンに接続しないで下さい。
 <br>
 続いて、右下の「Next」ボタンを押します。
 ![](/Graphics/Oculus_Rift_DK2/Setup/2.jpg)  
-**図. セットアップ開始画面**
+**図153. セットアップ開始画面**
 <br>
 
 
@@ -33,19 +33,19 @@ OculusRiftDK2は、まだパソコンに接続しないで下さい。
 <br>
 右下の「Skip Setup」を押します。
 ![](/Graphics/Oculus_Rift_DK2/Setup/3.jpg)  
-**図. 接続読み取り画面**
+**図154. 接続読み取り画面**
 <br>
 
 
 更に、「Skip Setup」ボタンを押します。
 ![](/Graphics/Oculus_Rift_DK2/Setup/4.jpg)  
-**図. スキップ確認画面**
+**図155. スキップ確認画面**
 <br>
 
 
 下記画面のように、ドライバアプリが起動すれば、セットアップは完了です。
 ![](/Graphics/Oculus_Rift_DK2/Setup/5.jpg)  
-**図. ドライバ正常起動画面**
+**図156. ドライバ正常起動画面**
 <br>
 
 

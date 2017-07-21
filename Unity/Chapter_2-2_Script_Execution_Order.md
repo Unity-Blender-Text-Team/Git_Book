@@ -14,14 +14,14 @@ Unityは、コンポーネント指向と呼ばれる、プログラムをコン
 Unityエディタの左上から「Edit」→「Project Settings」→「Script Execution Order」を選択すると、
 「Inspector」ウィンドウに「Script Execution Order」が表示されます。
 ![](/Graphics/Unity/Chapter_X/Script_Execution_Order/1.jpg)
-**図. ScriptExecutionOrderの開き方**
+**図82. ScriptExecutionOrderの開き方**
 <br>
 
 
 枠内に、「Project」ビューから「Debug_EX.cs」をドラッグ&ドロップします。
 更にドラッグし、「Default Time」よりも下、一番下に配置します。
 ![](/Graphics/Unity/Chapter_X/Script_Execution_Order/2.jpg)
-**図. ScriptExecutionOrderへの設定**
+**図83. ScriptExecutionOrderへの設定**
 <br>
 
 

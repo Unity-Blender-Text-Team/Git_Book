@@ -17,14 +17,14 @@ Unityでは、このような場面を「Scene」と呼び、「Scene」ごと�
 試しに、「Project」ビューの「Scenes」フォルダの中に、
 右クリックから、「Create」→「Scene」を選択し、新規場面を作成して「Test」と名付けて下さい。
 ![](/Graphics/Unity/Chapter_5/Application_Transition/1.jpg)
-**図. Test場面の作成**
+**図120. Test場面の作成**
 <br>
 
 
 「Test」をクリックして、場面を開いて下さい。
 その際、元の場面を保存するかを聞かれた場合は、保存して下さい。
 ![](/Graphics/Unity/Chapter_5/Application_Transition/2.jpg)
-**図. Test場面を開く**
+**図121. Test場面を開く**
 <br>
 
 
@@ -35,7 +35,7 @@ Unityでは、このような場面を「Scene」と呼び、「Scene」ごと�
 ここで、空のゲームオブジェクトを作成し、「Test」と名付けて下さい。
 更に、「C#スクリプト」を作成し、「Test.cs」と名付け、「Test」ゲームオブジェクトにコンポーネントとして割り当てて下さい。
 ![](/Graphics/Unity/Chapter_5/Application_Transition/3.jpg)
-**図. Testオブジェクトの設定**
+**図122. Testオブジェクトの設定**
 <br>
 
 
@@ -87,7 +87,7 @@ Unityエディタの上方にある「File」→「Build Setting」を選択し�
 「Scenes In Build」の枠内に、「Project」ビュー内の「Scenes」フォルダ内の「Scene」を
 図のようにドラッグ&ドロップして、登録します。
 ![](/Graphics/Unity/Chapter_5/Application_Transition/4.jpg)
-**図. BuildSettingの設定**
+**図123. BuildSettingの設定**
 <br>
 
 
@@ -100,7 +100,7 @@ Unityエディタの上方にある「File」→「Build Setting」を選択し�
 アプリを実行してみましょう。
 「Enter」キーを押して、先程まで実装していた、電車の場面に切り替われば成功です。
 ![](/Graphics/Unity/Chapter_5/Application_Transition/5.jpg)
-**図. 実行中の場面遷移**
+**図124. 実行中の場面遷移**
 <br>
 
 

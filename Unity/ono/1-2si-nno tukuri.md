@@ -3,7 +3,7 @@
 Unityエディタを起動し、メニューバーのFileからNew Projetを選択します。
 <br>
 ![](/Graphics/Unity/Ono/1-2b.png)
-**図. New Project**
+**図54. New Project**
 
 <br>
 <br>
@@ -18,5 +18,5 @@ Locationにプロジェクトを保存するフォルダを指定し, 最後にC
 
 
 ![](/Graphics/Unity/Ono/1-2c.png)
-**図.シーン作成**
+**図55. シーン作成**
 

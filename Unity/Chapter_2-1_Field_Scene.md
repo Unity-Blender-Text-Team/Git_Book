@@ -14,7 +14,7 @@
 
 「Scenes」フォルダの下に、「Field」と言うシーンを作成して下さい。
 ![](/Graphics/Unity/Chapter_2/Field_Scene/1.jpg)  
-**図. フィールド場面作成**
+**図77. フィールド場面作成**
 <br>
 
 
@@ -26,13 +26,13 @@
 
 「Scene_Manager」と言う空のゲームオブジェクトを作成して下さい。
 ![](/Graphics/Unity/Chapter_2/Field_Scene/2.jpg)  
-**図. Scene_Managerオブジェクト作成**
+**図.78 Scene_Managerオブジェクト作成**
 <br>
 
 
 「Scene_Manager」オブジェクトに「Field_Manager.cs」と言うC#スクリプトを作成し、貼り付けます。
 ![](/Graphics/Unity/Chapter_2/Field_Scene/3.jpg)  
-**図. Field_Manager.cs貼り付け**
+**図.79 Field_Manager.cs貼り付け**
 <br>
 
 
@@ -88,7 +88,7 @@ public class Field_Manager : Scene_Manager {
 「Scene_Manager.cs」と言うC#スクリプトを作成だけします。
 「Field_Manager.cs」内部で自動的に呼ばれる為、貼り付けはしないで下さい。
 ![](/Graphics/Unity/Chapter_2/Field_Scene/4.jpg)  
-**図. Scene_Manager.cs作成**
+**図.80 Scene_Manager.cs作成**
 <br>
 
 
@@ -148,7 +148,7 @@ public class Scene_Manager : MonoBehaviour {
 
 「Scene_Manager」オブジェクトに「Debug_EX.cs」と言うC#スクリプトを作成し、貼り付けます。
 ![](/Graphics/Unity/Chapter_2/Field_Scene/5.jpg)  
-**図. Debug_EX.cs貼り付け**
+**図81. Debug_EX.cs貼り付け**
 <br>
 
 

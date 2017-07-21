@@ -2,11 +2,9 @@
 
 この章では、Blenderで作成したモデルをUnityへ移動させるための説明を行います。
 
-ファイル→エクスポート→FBXを選択します。![](/Graphics/Blender/export1.png)**図.FBX選択の仕方**
-
-
+ファイル→エクスポート→FBXを選択します。![](/Graphics/Blender/export1.png)**図42. FBX選択の仕方**
 
 左のウィンドウのFBXをエクスポートを変更します。拡大・縮小は1.0にします。その下はここではメッシのみ選択し、トランスフォーム適用にチェックさせ、FBXをエクスポートを押して完了です。
 
-![](/Graphics/Blender/export2.png)**図.保存設定**
+![](/Graphics/Blender/export2.png)**図43. 保存設定**
 

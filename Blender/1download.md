@@ -6,7 +6,7 @@
 
 [https://www.blender.org/](https://www.blender.org/)
 
-![](/Graphics/Blender/in_1.png)
+![](/Graphics/Blender/in_1.png)**図1. **
 
 「Download」から64bit版と32bit版が選べるので自分のPCに合った方を選びましょう。
 
